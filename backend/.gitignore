@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Database
+*.db
+*.db-journal
+
+# Environment
+.env
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
