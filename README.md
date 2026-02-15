@@ -524,8 +524,3 @@ npm test
 - ✅ Backend integration tests (Vitest)
 - ✅ Deployment-ready project structure
 
----
-
-## License
-
-MIT
